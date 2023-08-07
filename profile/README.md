@@ -13,7 +13,7 @@ However, in order to continue providing you with this service in the long term, 
 
 ### 👓 Appendix
 
-[let us know](https://github.com/orgs/hikasami/discussions/categories/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://discord.gg/A8dgfBVRav), write to jadnast 🙌.
+[Let us know](https://github.com/orgs/hikasami/discussions/categories/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://discord.gg/A8dgfBVRav), write to jadnast 🙌.
 
 ---
 
