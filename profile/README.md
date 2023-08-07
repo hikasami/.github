@@ -9,7 +9,7 @@ Hikasami isn't just a service, it's a passion for anime that brings together ani
 Hikasami is a place free from intrusive advertisements, where we aim to provide quality service without unnecessary disruptions.
 However, in order to continue providing you with this service in the long term, we need your support. If you value what we do, we invite you to support us with a donation.
 
-- [Boosty](https://boosty.to/hikasami) - Boosty
+- [Boosty](https://boosty.to/hikasami)
 
 ### 👓 Appendix
 
