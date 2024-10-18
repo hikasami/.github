@@ -1,4 +1,4 @@
-## Hey, this is us 👋
+# Hey, this is us 👋
 
 ![Hikasami Github Cover](https://raw.githubusercontent.com/hikasami/.github/main/github_cover_v3.png)
 
