@@ -19,5 +19,4 @@ Here is a list of important repositories and who is managing each.
 | Repository                                                     | Description                                |                                     Maintainer(s)                                      |
 | -------------------------------------------------------------- | ------------------------------------------ | :------------------------------------------------------------------------------------: |
 | [eslint-config-react](https://github.com/hikasami/eslint-config-react) | ESLint Config for React            |                                       @everyone                                        |
-| [zero-two](https://github.com/hikasami/zero-two)                     | Discord bot                         |                                                                               |
-| [font](https://github.com/hikasami/font)                     | Hikasami Sans Font                         |                                       @everyone                                        |
+| [font](https://github.com/hikasami/font)                     | Hikasami Sans Font                         |                                       @jadnast                                        |
