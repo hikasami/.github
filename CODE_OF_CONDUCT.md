@@ -1,47 +1,105 @@
-## Hikasami Code of Conduct
+# Кодекс поведения (Code of Conduct) Hikasami
 
-### 1. Introduction
-
-We are committed to maintaining an open and friendly environment for all participants in the project. This Code of Conduct outlines the expected behavior of participants and the steps that will be taken in the event of unacceptable behavior. This document applies to all forms of interaction within the project, including code contributions, discussions in comments, pull requests, and external communication channels.
-
-### 2. Our Principles
-
-We adhere to the following principles to create a productive and professional working atmosphere:
-
-- **Courtesy and respect:** Respect other participants. Constructive criticism and responsiveness are encouraged.
-- **Inclusivity:** We welcome contributions from all participants, regardless of their experience, gender, race, ethnicity, religion, orientation, or other characteristics.
-- **Honesty and openness:** Be honest in your intentions and open to new ideas.
-- **Transparency:** Discuss issues and solutions publicly, avoiding personal conflicts.
-- **Teamwork:** Work together for the benefit of the project. Share your knowledge and help others.
-
-### 3. Expected Behavior
-
-- Follow the principles outlined above.
-- Respect the opinions and decisions of other participants.
-- Strive for high-quality code, write tests, and follow best practices.
-- Participate in discussions and actively contribute to improving the project.
-- Review pull requests carefully and provide well-reasoned feedback.
-
-### 4. Unacceptable Behavior
-
-- Rude or offensive comments.
-- Personal attacks, discrimination, or insults based on any characteristic.
-- Intentional spreading of false information.
-- Deliberate violation or circumvention of the project's technical standards.
-- Ignoring the principles and rules established in this Code of Conduct.
-
-### 5. Conflict Resolution
-
-If you witness or experience unacceptable behavior, please report it to the project leader or through official communication channels. All reports will be reviewed confidentially, and appropriate action will be taken.
-
-### 6. Consequences of Violations
-
-Any participants who violate this Code of Conduct may face disciplinary actions, including warnings, temporary suspension, or permanent removal from the project.
-
-### 7. Conclusion
-
-This Code of Conduct is designed to ensure a professional and pleasant working environment for all participants in the Hikasami project. We rely on your understanding and adherence to these principles.
+**Дата вступления в силу:** 15.08.2025
+**Применяется к:** сотрудникам, подрядчикам, контрибьюторам, пользователям и всем лицам, взаимодействующим с проектами, продуктами и сообществом Hikasami.
 
 ---
 
-This document may be reviewed and updated as necessary. We welcome your suggestions and ideas for improving this Code of Conduct.
+## 1. Введение
+
+Hikasami стремится поддерживать профессиональную, безопасную и инклюзивную среду для всех участников проекта. Настоящий **Кодекс поведения** (далее — «Кодекс») определяет стандарты поведения и порядок реагирования на нарушения.
+
+Все участники обязуются соблюдать положения настоящего Кодекса при:
+
+* выполнении рабочих обязанностей и задач;
+* взаимодействии в рамках проектов и репозиториев кода;
+* общении на внутренних и внешних коммуникационных платформах;
+* участии в мероприятиях, конференциях, митапах и онлайн-активностях, связанных с Hikasami.
+
+Нарушение Кодекса рассматривается как серьёзное и может повлечь дисциплинарные меры, включая расторжение договоров, удаление из проектов и юридическую ответственность.
+
+## 2. Принципы
+
+Все участники Hikasami обязуются соблюдать следующие принципы:
+
+1. **Уважение и вежливость**
+
+   * Относитесь с уважением к коллегам, партнёрам и участникам сообщества.
+   * Воздерживайтесь от агрессивных, оскорбительных или уничижительных комментариев.
+
+2. **Инклюзивность**
+
+   * Поощряется участие всех, независимо от пола, расы, этнической принадлежности, религии, возраста, ориентации, физического состояния или уровня опыта.
+
+3. **Честность и прозрачность**
+
+   * Действуйте честно, открыто и добросовестно.
+   * Обсуждайте вопросы и решения публично, избегая конфликтов личного характера.
+
+4. **Профессионализм и ответственность**
+
+   * Стремитесь к высокому качеству работы, соблюдайте стандарты разработки и внутренние правила.
+   * Берите ответственность за свои действия, решения и ошибки.
+
+5. **Конфиденциальность и защита данных**
+
+   * Не разглашайте конфиденциальную информацию о проекте, сотрудниках или пользователях.
+   * Соблюдайте требования по защите персональных данных и корпоративной информации.
+
+6. **Этичное использование технологий**
+
+   * Используйте ресурсы, инструменты и код безопасно и законно.
+   * Не допускается вредоносное вмешательство в работу проекта, пользователей или систем.
+
+## 3. Ожидаемое поведение
+
+Участники должны:
+
+* Содействовать созданию позитивной, продуктивной и безопасной рабочей среды.
+* Уважать мнения, решения и вклад других участников.
+* Активно участвовать в обсуждениях и процессе разработки.
+* Писать качественный код, проверять pull request’ы и предоставлять обоснованную обратную связь.
+* Сообщать о выявленных проблемах, нарушениях или угрозах безопасности.
+
+## 4. Недопустимое поведение
+
+К недопустимому поведению относятся:
+
+* Личные оскорбления, дискриминация или домогательства.
+* Нарушение авторских прав и интеллектуальной собственности.
+* Намеренное распространение ложной или вводящей в заблуждение информации.
+* Игнорирование технических и корпоративных стандартов.
+* Нарушение правил конфиденциальности и безопасности данных.
+* Любые действия, создающие угрозу для участников, пользователей или проектов.
+
+## 5. Порядок реагирования на нарушения
+
+1. **Сообщение о нарушении**
+
+   * Нарушение может быть сообщено руководству проекта, HR или через официальный канал: **[conduct@hikasami.com](mailto:conduct@hikasami.com)**.
+
+2. **Рассмотрение жалобы**
+
+   * Все жалобы рассматриваются конфиденциально и объективно.
+   * Назначается ответственное лицо или комитет для расследования.
+
+3. **Принятие мер**
+
+   * На основании результатов расследования применяются меры, включая:
+
+     * устное или письменное предупреждение;
+     * временное ограничение доступа к проектам или ресурсам;
+     * полное исключение из проекта или сообщества;
+     * расторжение трудового договора или контракта;
+     * юридические действия при необходимости.
+
+## 6. Юридические положения
+
+* Настоящий Кодекс является обязательным для всех участников, и несоблюдение может быть основанием для дисциплинарных или юридических мер.
+* Hikasami оставляет за собой право изменять и обновлять Кодекс в любой момент без предварительного уведомления.
+* Участники обязуются ознакомиться с изменениями и соблюдать их.
+* Несоблюдение настоящего Кодекса не освобождает от ответственности по трудовому или гражданскому законодательству.
+
+## 7. Заключение
+
+Hikasami стремится обеспечить безопасную, справедливую и профессиональную рабочую среду. Соблюдение настоящего Кодекса — обязательное условие для всех участников, содействующее развитию доверия, сотрудничества и качества проекта.
